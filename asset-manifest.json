@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://akashvasishter.github.io/csb-gixjdg/static/css/main.4efd7073.chunk.css",
+    "main.js": "https://akashvasishter.github.io/csb-gixjdg/static/js/main.5b8dae6e.chunk.js",
+    "main.js.map": "https://akashvasishter.github.io/csb-gixjdg/static/js/main.5b8dae6e.chunk.js.map",
+    "runtime-main.js": "https://akashvasishter.github.io/csb-gixjdg/static/js/runtime-main.77ad46b9.js",
+    "runtime-main.js.map": "https://akashvasishter.github.io/csb-gixjdg/static/js/runtime-main.77ad46b9.js.map",
+    "static/js/2.01f1eeb0.chunk.js": "https://akashvasishter.github.io/csb-gixjdg/static/js/2.01f1eeb0.chunk.js",
+    "static/js/2.01f1eeb0.chunk.js.map": "https://akashvasishter.github.io/csb-gixjdg/static/js/2.01f1eeb0.chunk.js.map",
+    "index.html": "https://akashvasishter.github.io/csb-gixjdg/index.html",
+    "static/css/main.4efd7073.chunk.css.map": "https://akashvasishter.github.io/csb-gixjdg/static/css/main.4efd7073.chunk.css.map",
+    "static/js/2.01f1eeb0.chunk.js.LICENSE.txt": "https://akashvasishter.github.io/csb-gixjdg/static/js/2.01f1eeb0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77ad46b9.js",
+    "static/js/2.01f1eeb0.chunk.js",
+    "static/css/main.4efd7073.chunk.css",
+    "static/js/main.5b8dae6e.chunk.js"
+  ]
+}
